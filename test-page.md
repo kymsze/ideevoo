@@ -3,27 +3,14 @@ title: Test page
 layout: blocks
 date: 2018-11-09 16:49
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29.png"
-  navigation:
-  - {}
-  - {}
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-1.png"
-  navigation:
-  - {}
-  - {}
-  - {}
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-2.png"
+  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 17.40.54.png"
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-3.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-4.png"
+    image: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 17.40.54.png"
   headline: Hero banner with image
   content: 'hi im content '
   cta:
