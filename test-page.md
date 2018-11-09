@@ -32,5 +32,8 @@ page_sections:
   block: footer-1
 - template: 4-column-footer
   block: footer-2
+menu:
+  main:
+    weight: 2
 
 ---
