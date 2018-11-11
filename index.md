@@ -11,6 +11,8 @@ page_sections:
   image:
     image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   headline: 'Ethical items from Amazon, curated for you. '
+- template: 3-column-text
+  block: three-column-1
 - template: 2-column-media-element
   block: media-2
   image_1:
