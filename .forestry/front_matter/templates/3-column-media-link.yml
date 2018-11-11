@@ -1,0 +1,35 @@
+---
+label: 3-column-media-link
+hide_body: false
+is_partial: true
+fields:
+- type: field_group
+  name: image_1
+  label: 'First image '
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+- type: field_group
+  name: image_2
+  label: Second Image
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+- type: field_group
+  name: image_3
+  label: Third image
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
