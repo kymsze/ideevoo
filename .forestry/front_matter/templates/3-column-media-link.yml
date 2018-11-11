@@ -5,8 +5,11 @@ is_partial: true
 fields:
 - type: field_group
   name: image_1
-  label: 'First image '
+  label: First image
   fields:
+  - type: text
+    name: link
+    label: link
   - type: file
     name: image
     label: image
@@ -17,6 +20,9 @@ fields:
   name: image_2
   label: Second Image
   fields:
+  - type: text
+    name: link
+    label: link
   - type: file
     name: image
     label: image
@@ -27,6 +33,9 @@ fields:
   name: image_3
   label: Third image
   fields:
+  - type: text
+    name: link
+    label: link
   - type: file
     name: image
     label: image
