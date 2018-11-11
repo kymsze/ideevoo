@@ -52,7 +52,8 @@ page_sections:
     content: hi
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-6.png"
+  image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11.png"
+  caption: full width media content
 - template: 2-column-media-element
   block: media-2
 - template: signup-bar
