@@ -5,12 +5,12 @@ date: 2018-11-09 16:49
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 17.40.54.png"
+  logo: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11.png"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 17.40.54.png"
+    image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11.png"
   headline: Hero banner with image
   content: 'hi im content '
   cta:
