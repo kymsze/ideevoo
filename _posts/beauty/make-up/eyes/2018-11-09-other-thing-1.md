@@ -5,7 +5,7 @@ date: 2018-11-09 17:07
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/11/09/Screen Shot 2018-11-09 at 16.28.29-8.png"
+  logo: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
