@@ -13,6 +13,8 @@ page_sections:
   headline: 'Ethical items from Amazon, curated for you. '
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: hi
 - template: 2-column-media-element
   block: media-2
   image_1:
