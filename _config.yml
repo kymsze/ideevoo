@@ -3,7 +3,7 @@ author: kim szelong
 email: kim.szelong@gmail.com
 description: >-
   Ethical products curated from amazon.co.uk 
-baseurl: "nadar" # the subpath of your site, e.g. /blog
+baseurl: "/nadar" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
 
 # Build settings
