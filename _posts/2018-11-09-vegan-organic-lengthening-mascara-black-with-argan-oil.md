@@ -23,4 +23,3 @@ page_sections:
   block: footer-1
 
 ---
-
