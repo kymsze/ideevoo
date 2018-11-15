@@ -9,7 +9,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
+    image: ''
   headline: 'Ethical items from Amazon, curated for you. '
   background_image: "/uploads/2018/11/15/alvaro-serrano-133380-unsplash.jpg"
 - template: 3-column-media-link
