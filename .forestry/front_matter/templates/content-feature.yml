@@ -42,3 +42,6 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- type: text
+  name: link
+  label: Link
