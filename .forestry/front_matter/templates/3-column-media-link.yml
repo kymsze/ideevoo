@@ -6,7 +6,7 @@ fields:
 - type: tag_list
   name: tag
   label: tag
-  hidden: true
+  hidden: false
 - type: field_group
   name: image_1
   label: First image
