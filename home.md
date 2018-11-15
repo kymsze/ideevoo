@@ -17,8 +17,8 @@ page_sections:
   navigation:
   - link: "/health"
     link_text: Health
-  - link: Beauty
-    link_text: "/beauty"
+  - link: "/beauty"
+    link_text: Beauty
 - template: 3-column-media-link
   block: media-3
   tag:
