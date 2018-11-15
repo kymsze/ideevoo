@@ -15,6 +15,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/health"
+    link_text: Health
   - link: Beauty
     link_text: "/beauty"
 - template: 3-column-media-link
