@@ -43,5 +43,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/thing.md
+- _posts/2018-11-15-thing.md
 - index.md
