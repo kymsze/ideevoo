@@ -11,6 +11,7 @@ page_sections:
   image:
     image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   headline: 'Ethical items from Amazon, curated for you. '
+  background_image: "/uploads/2018/11/15/alvaro-serrano-133380-unsplash.jpg"
 - template: 3-column-media-link
   block: media-3
 - template: signup-bar
@@ -21,6 +22,9 @@ page_sections:
   block: footer-2
   image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   col_2: Unit 7, 1C Shelford Place, N16 9HS
+issue-tag: []
+category_tag: []
+thumbnail: ''
 
 ---
 foo bar
