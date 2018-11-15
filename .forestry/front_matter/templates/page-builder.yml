@@ -17,6 +17,9 @@ fields:
 - type: tag_list
   name: category_tag
   label: category tag
+- type: file
+  label: Item thumbnail
+  name: item_thumbnail
 - type: blocks
   name: page_sections
   label: Page Sections
@@ -39,8 +42,5 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- type: file
-  label: Item thumbnail
-  name: item_thumbnail
 pages:
 - index.md
