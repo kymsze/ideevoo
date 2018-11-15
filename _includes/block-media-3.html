@@ -1,6 +1,15 @@
 <section class="block block-media-3">
   <div class="container">
-    <div class="columns">
+
+  	<!-- {% assign beautyposts = site.posts |  where: 'featured', true %} -->
+
+		{% for post in site.posts %}
+			{{ post.issue-tag}} 
+		{% endfor %}
+
+		<!-- {{site.posts | inspect}} -->
+    <!-- <div class="columns">
+
 
       <div class="column">
         <figure>
@@ -35,6 +44,6 @@
         </figure>        
       </div>
 
-    </div>
+    </div> -->
   </div>
 </section>
