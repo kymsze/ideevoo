@@ -6,12 +6,15 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-1.png"
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: ''
-  headline: 'Ethical items from Amazon, curated for you. '
-  background_image: "/uploads/2018/11/15/markus-spiske-784097-unsplash.jpg"
+- template: navigation
+  block: navigation
+  navigation:
+  - link: "/beauty"
+    link_text: Beauty
+  - link: "/health"
+    link_text: Health
+  - link: "/home"
+    link_text: Home
 - template: 3-column-media-link
   block: media-3
   tag:

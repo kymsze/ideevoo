@@ -1,7 +1,7 @@
 <section class="block block-media-3">
   <div class="container">
 
-  	{% assign beautyposts = site.posts |  where: 'category_tag', "beauty" %}
+  	{% assign beautyposts = site.posts |  where: 'category_tag', section.tag.first %}
 
 	
     <div class="columns">

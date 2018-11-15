@@ -17,8 +17,14 @@ page_sections:
   navigation:
   - link: "/beauty"
     link_text: Beauty
+  - link: "/health"
+    link_text: Health
+  - link: "/home"
+    link_text: Home
 - template: 3-column-media-link
   block: media-3
+  tag:
+  - featured
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
