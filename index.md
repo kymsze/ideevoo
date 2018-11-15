@@ -36,6 +36,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Test
+  content: Test
+  media:
+    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
 issue-tag: []
 category_tag: []
 thumbnail: ''
