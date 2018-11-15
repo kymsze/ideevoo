@@ -33,6 +33,9 @@ page_sections:
   block: footer-2
   image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   col_2: Unit 7, 1C Shelford Place, N16 9HS
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
 issue-tag: []
 category_tag: []
 thumbnail: ''
