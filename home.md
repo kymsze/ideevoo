@@ -25,7 +25,6 @@ page_sections:
 issue-tag: []
 category_tag: []
 thumbnail: ''
-published: false
 
 ---
 foo bar
