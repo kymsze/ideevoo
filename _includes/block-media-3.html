@@ -8,12 +8,10 @@
     <div class="columns">
 			{% for post in beautyposts %}
 
-			{{post | inspect}}
-
 	      <div class="column">
 	        <figure>
 	          <a href="hi">
-		          <img src="{{ post.logo }}">
+		          <img src="{{ post.thumbnail }}">
 	          </a>
 	          {% if post.title %}
 	          <figcaption>{{ post.title }} </figcaption>

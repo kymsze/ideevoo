@@ -1,7 +1,12 @@
 ---
-title: Vegan & Organic Lengthening Mascara Black With Argan Oil
+title: Thing 2
 layout: blocks
-date: 2018-11-09 17:07
+date: 2018-11-15 12:55:39 +0000
+issue-tag:
+- plastic-free
+category_tag:
+- beauty
+thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,9 +21,6 @@ page_sections:
     Mascara Black </span>
 - template: simple-footer
   block: footer-1
-issue_tag:
-- natural
-category_tag:
-- beauty
 
 ---
+
