@@ -23,5 +23,9 @@ tag:
 - non-toxic
 - plastic-free
 - natural
+issue-tag:
+- non-toxic
+category_tag:
+- beauty
 
 ---
