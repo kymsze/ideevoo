@@ -16,5 +16,8 @@ page_sections:
     Mascara Black </span>
 - template: simple-footer
   block: footer-1
+tag:
+- non-toxic
+- natural
 
 ---
