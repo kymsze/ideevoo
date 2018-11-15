@@ -36,4 +36,8 @@
         flex:0 0 calc(33.33% - 4rem);
         margin:2rem;
     }
+
+
+.block-hero-2 {
+	min-height: 70vh;
 }
