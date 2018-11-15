@@ -23,7 +23,8 @@ page_sections:
   image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   col_2: Unit 7, 1C Shelford Place, N16 9HS
 issue-tag: []
-category_tag: []
+category_tag:
+- beauty
 thumbnail: ''
 
 ---
