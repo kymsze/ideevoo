@@ -18,9 +18,8 @@ fields:
   name: category_tag
   label: category tag
 - type: file
-  label: Item thumbnail
-  name: item_thumbnail
-  default: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+  name: thumbnail
+  label: thumbnail
 - type: blocks
   name: page_sections
   label: Page Sections
