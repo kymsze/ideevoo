@@ -12,12 +12,19 @@ fields:
   hidden: true
   default: blocks
 - type: tag_list
-  name: tag
-  label: tag
+  name: issue-tag
+  label: issue tag
+- type: tag_list
+  name: category_tag
+  label: category tag
 - type: blocks
   name: page_sections
   label: Page Sections
   template_types:
+  - text-1
+  - text-only-hero-banner
+  - text-column
+  - 3-column-media-link
   - navigation-header
   - navigation-header-w-button
   - simple-header
