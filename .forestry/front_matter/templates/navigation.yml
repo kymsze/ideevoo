@@ -7,6 +7,7 @@ fields:
   label: block
   name: block
   hidden: true
+  default: navigation
 - type: field_group_list
   name: navigation
   label: Navigation
