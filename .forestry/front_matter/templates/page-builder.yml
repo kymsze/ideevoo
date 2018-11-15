@@ -39,5 +39,8 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- type: file
+  label: Item thumbnail
+  name: item_thumbnail
 pages:
 - index.md
