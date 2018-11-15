@@ -3,6 +3,10 @@ label: 3-column-media-link
 hide_body: false
 is_partial: true
 fields:
+- type: tag_list
+  name: tag
+  label: tag
+  hidden: true
 - type: field_group
   name: image_1
   label: First image
