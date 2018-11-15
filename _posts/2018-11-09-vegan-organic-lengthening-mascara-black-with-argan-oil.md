@@ -16,10 +16,7 @@ page_sections:
     Mascara Black </span>
 - template: simple-footer
   block: footer-1
-tag:
-- non-toxic
-- natural
-issue-tag:
+issue_tag:
 - natural
 category_tag:
 - beauty

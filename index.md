@@ -13,46 +13,6 @@ page_sections:
   headline: 'Ethical items from Amazon, curated for you. '
 - template: 3-column-media-link
   block: media-3
-  image_1:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_2:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_3:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-- template: 3-column-media-link
-  block: media-3
-  image_1:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_2:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_3:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-- template: 3-column-media-link
-  block: media-3
-  image_1:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_2:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
-  image_3:
-    image: "/uploads/2018/11/09/71nWGNMB5NL._SL1500_.jpg"
-    caption: Vegan & Organic Lengthening Mascara Black With Argan Oil
-    link: "http://www.google.com"
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
