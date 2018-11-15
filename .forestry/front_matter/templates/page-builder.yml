@@ -43,4 +43,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- beauty.md
 - index.md
