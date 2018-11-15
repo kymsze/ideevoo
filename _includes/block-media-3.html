@@ -4,13 +4,12 @@
   	{% assign beautyposts = site.posts |  where: 'category_tag', "beauty" %}
 
 	
-
     <div class="columns">
 			{% for post in beautyposts %}
 
 	      <div class="column">
 	        <figure>
-	          <a href="hi">
+	          <a href="{{post.url}}">
 		          <img src="{{ post.thumbnail }}">
 	          </a>
 	          {% if post.title %}
