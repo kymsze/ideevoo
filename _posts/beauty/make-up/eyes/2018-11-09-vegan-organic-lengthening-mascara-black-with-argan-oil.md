@@ -19,5 +19,9 @@ page_sections:
 tag:
 - non-toxic
 - natural
+issue-tag:
+- natural
+category_tag:
+- beauty
 
 ---
