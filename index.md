@@ -14,6 +14,9 @@ page_sections:
   background_image: "/uploads/2018/11/15/markus-spiske-784097-unsplash.jpg"
 - template: navigation
   block: navigation
+  navigation:
+  - link: "/beauty"
+    link_text: Beauty
 - template: 3-column-media-link
   block: media-3
 - template: signup-bar
