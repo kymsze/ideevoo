@@ -24,6 +24,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - navigation
   - text-1
   - text-only-hero-banner
   - text-column
