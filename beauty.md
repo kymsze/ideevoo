@@ -14,6 +14,8 @@ page_sections:
   background_image: "/uploads/2018/11/15/markus-spiske-784097-unsplash.jpg"
 - template: 3-column-media-link
   block: media-3
+  tag:
+  - beauty
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
@@ -23,8 +25,7 @@ page_sections:
   image: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png"
   col_2: Unit 7, 1C Shelford Place, N16 9HS
 issue-tag: []
-category_tag:
-- beauty
+category_tag: []
 thumbnail: ''
 
 ---
