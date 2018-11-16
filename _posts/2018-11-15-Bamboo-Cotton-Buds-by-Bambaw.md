@@ -23,7 +23,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
-  content: Sign up to get updates from nadar
+  content: Sign up to get updates from nadaar
 
 - template: simple-footer
   block: footer-1
