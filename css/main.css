@@ -89,3 +89,12 @@
 .block-navigation .nav-item:last-of-type{
     margin:0
 }
+
+.block-footer-1 {
+	background-color: #ffcb3c;
+	padding: 3rem 4rem;
+}
+
+.block-footer-1 img{
+	max-width: 15rem;
+}

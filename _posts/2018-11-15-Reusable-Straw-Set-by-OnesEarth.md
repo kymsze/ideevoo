@@ -1,12 +1,12 @@
 ---
-title: Health 1
+title: Reusable Straw Set by OnesEarth
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
 category_tag:
-- health
-thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+- home
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,20 +14,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Poppy AustinVegan &amp; Organic Lengthening Mascara Black 
-  content: FINEST Vegan &amp; Organic Lengthening Mascara
-    Black With Argan Oil - Cruelty-Free, Best Natural Volumising, Thickening, Smudge
-    Proof, Hypoallergenic, Water Based - for Sensitive Eyes &amp; Short Lashes
+  headline: Reusable Straw Set by OnesEarth
+  content: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
   media:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-  link: http://www.google.com
+    image: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
+  link: https://amzn.to/2PxOE99
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadar
-
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
 
 ---
+
