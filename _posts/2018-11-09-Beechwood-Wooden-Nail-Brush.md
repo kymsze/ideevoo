@@ -7,13 +7,12 @@ issue-tag:
 - vegan
 category_tag:
 - beauty
-- featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/711iAdbQ5HL._SL1500_.jpg
 price: 3.95
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-1.png"
+  logo: "/uploads/2018/11/11/logo.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -28,6 +27,6 @@ page_sections:
   content: Sign up to get updates from nadar
 - template: simple-footer
   block: footer-1
-  content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
+  content: <img src="/uploads/2018/11/11/logo.png">
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Beauty
+title: Books
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
@@ -22,7 +22,7 @@ page_sections:
 - template: 3-column-media-link
   block: media-3
   tag:
-  - beauty
+  - books
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
