@@ -482,6 +482,12 @@ input.inverted::placeholder{
     max-width: 60%;
 }
 
+@media screen and (min-width:700px){
+    .block-footer-1 img{
+        max-width: 15rem;
+    }
+}
+
 .block-footer-2 .columns{
     display:-ms-flexbox;
     display:flex;
