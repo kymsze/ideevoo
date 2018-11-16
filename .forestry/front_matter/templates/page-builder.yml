@@ -20,6 +20,9 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+- type: number
+  name: price
+  label: price
 - type: blocks
   name: page_sections
   label: Page Sections
@@ -43,9 +46,6 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- type: number
-  name: price
-  label: price
 pages:
 - beauty.md
 - health.md
