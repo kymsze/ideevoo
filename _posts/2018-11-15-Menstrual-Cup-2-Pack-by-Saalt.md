@@ -1,14 +1,14 @@
 ---
-title: Reusable Straw Set by OnesEarth
+title: Menstrual Cup 2-Pack by Saalt
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
 category_tag:
-- home
+- health
 - featured
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-price: 5.99
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/91jwM5hBHNL._SL1500_.jpg
+price: 35.00
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,18 +16,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Reusable Straw Set by OnesEarth
-  content: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
+  headline: Menstrual Cup 2-Pack by Saalt 
+  content: Saalt Menstrual Cup 2-Pack - Premium Design - Most Comfortable Period Cup - #1 Active Cup - Wear for 12 Hours - Soft, Flexible, Reusable Medical-Grade Silicone (Regular Pink/Small Blue)
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-  link: https://amzn.to/2PxOE99
+    image: https://images-na.ssl-images-amazon.com/images/I/91jwM5hBHNL._SL1500_.jpg
+  link: https://amzn.to/2DqsY7r
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadar
+
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
 
 ---
-

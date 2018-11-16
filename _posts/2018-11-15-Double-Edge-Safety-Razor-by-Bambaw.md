@@ -1,12 +1,14 @@
 ---
-title: Home 4
+title: Double Edge Safety Razor by Bambaw
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
 category_tag:
-- home
-thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+- health
+- featured
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/71ORk96R%2BwL._SL1500_.jpg
+price: 15.99
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,13 +16,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Poppy AustinVegan &amp; Organic Lengthening Mascara Black 
-  content: FINEST Vegan &amp; Organic Lengthening Mascara
-    Black With Argan Oil - Cruelty-Free, Best Natural Volumising, Thickening, Smudge
-    Proof, Hypoallergenic, Water Based - for Sensitive Eyes &amp; Short Lashes
+  headline: Double Edge Safety Razor by Bambaw 
+  content: Double Edge Safety Razor with Long Natural Bamboo Handle | The Perfect Shave | High Quality | Sustainable and Durable | Environmentally Friendly |Fits All Double Edge Razor Blades | Bambaw
   media:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-  link: http://www.google.com
+    image: https://images-na.ssl-images-amazon.com/images/I/71ORk96R%2BwL._SL1500_.jpg
+  link: https://amzn.to/2DpxymE
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

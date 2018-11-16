@@ -1,14 +1,13 @@
 ---
-title: Reusable Straw Set by OnesEarth
+title: The Sustainable Fashion Handbook
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
 category_tag:
-- home
+- books
 - featured
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-price: 5.99
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/51aa8oWcDjL.jpg
+price: 34.44
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,11 +15,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Reusable Straw Set by OnesEarth
-  content: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
+  headline: The Sustainable Fashion Handbook by Sandy Black
+  content: This ambitious book is set to become the definitive reference on all aspects of eco-fashion. Packed with authoritative features and facts, and inspiring images and ideas.
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-  link: https://amzn.to/2PxOE99
+    image: https://images-na.ssl-images-amazon.com/images/I/51aa8oWcDjL.jpg
+  link: https://amzn.to/2K7t6Kt
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
@@ -30,4 +29,3 @@ page_sections:
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
 
 ---
-

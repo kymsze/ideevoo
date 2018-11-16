@@ -1,12 +1,13 @@
 ---
-title: Health 1
+title: A Life Less Throwaway
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
 category_tag:
-- health
-thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+- books
+- featured
+thumbnail: https://d2t3xdwbh1v8qy.cloudfront.net/content/B07457MY2Y/resources/749325738
+price: 7.49
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,18 +15,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Poppy AustinVegan &amp; Organic Lengthening Mascara Black 
-  content: FINEST Vegan &amp; Organic Lengthening Mascara
-    Black With Argan Oil - Cruelty-Free, Best Natural Volumising, Thickening, Smudge
-    Proof, Hypoallergenic, Water Based - for Sensitive Eyes &amp; Short Lashes
+  headline: A Life Less Throwaway by Tara Button
+  content: There are 10 steps to master mindful curation and each is explained in this book, from understanding and using techniques to freeing yourself from external manipulations.
   media:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-  link: http://www.google.com
+    image: https://d2t3xdwbh1v8qy.cloudfront.net/content/B07457MY2Y/resources/749325738
+  link: https://amzn.to/2DohSju
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadar
-
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">

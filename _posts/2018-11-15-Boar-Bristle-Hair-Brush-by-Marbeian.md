@@ -1,12 +1,14 @@
 ---
-title: Thing 2
+title: Boar Bristle Hair Brush by Marbeian 
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
 category_tag:
 - beauty
-thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+- featured
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/91lqdoLLGIL._SL1500_.jpg
+price: 15.97
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,21 +16,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Poppy AustinVegan &amp; Organic Lengthening Mascara Black 
-  content: FINEST Vegan &amp; Organic Lengthening Mascara
-    Black With Argan Oil - Cruelty-Free, Best Natural Volumising, Thickening, Smudge
-    Proof, Hypoallergenic, Water Based - for Sensitive Eyes &amp; Short Lashes
+  headline: Boar Bristle Hair Brush by Marbeian 
+  content: Boar Bristle Hair Brush for Natural Hair Conditioning, Wooden Comb for Hair Detangling, Set Makes Hair Shiny and Silky
   media:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-  link: http://www.google.com
+    image: https://images-na.ssl-images-amazon.com/images/I/91lqdoLLGIL._SL1500_.jpg
+  link: https://amzn.to/2Q3O9Tu
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadar
-
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
 
 ---
-

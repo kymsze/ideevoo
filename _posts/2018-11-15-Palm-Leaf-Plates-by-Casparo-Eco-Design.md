@@ -8,6 +8,7 @@ category_tag:
 - home
 - featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/910C4%2BMgpkL._SX679_.jpg
+price: 13.95
 page_sections:
 - template: simple-header
   block: header-3
@@ -27,6 +28,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
+
 
 ---
 

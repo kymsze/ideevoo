@@ -1,12 +1,14 @@
 ---
-title: Thing
+title: 60 Vegetarian Algae Omega 3 by NothingFishy 
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
 category_tag:
-- beauty
-thumbnail: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
+- health
+- featured
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/81BDtus4NmL._SL1500_.jpg
+price: 21.36
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,18 +16,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Poppy AustinVegan &amp; Organic Lengthening Mascara Black 
-  content: FINEST Vegan &amp; Organic Lengthening Mascara
-    Black With Argan Oil - Cruelty-Free, Best Natural Volumising, Thickening, Smudge
-    Proof, Hypoallergenic, Water Based - for Sensitive Eyes &amp; Short Lashes
+  headline: 60 Vegetarian Algae Omega 3 by NothingFishy 
+  content: NothingFishy 60 Vegetarian Omega 3 DHA Algae Softgels, 2 Month Supply, Vegan-Friendly, Non-GMO, No Fish Oils, Free From Mercury & Heavy Metals, 100% Sustainable Packaging
   media:
-    image: "/uploads/2018/11/11/71nWGNMB5NL._SL1500_.jpg"
-  link: http://www.google.com
+    image: https://images-na.ssl-images-amazon.com/images/I/81BDtus4NmL._SL1500_.jpg
+  link: https://amzn.to/2z7Kwm3
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadar
-
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">

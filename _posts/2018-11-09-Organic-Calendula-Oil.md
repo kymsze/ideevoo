@@ -1,14 +1,17 @@
 ---
-title: Reusable Straw Set by OnesEarth
+title: Organic Calendula Oil
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - plastic-free
+- made-in-the-uk
+- organic
+- natural
 category_tag:
-- home
+- beauty
 - featured
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-price: 5.99
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/81LNRAiE%2BUL._SL1500_.jpg
+price: 11.95
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,11 +19,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Reusable Straw Set by OnesEarth
-  content: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
+  headline: Organic Calendula Oil by Herbowski
+  content: Herbowski Organic Calendula Oil 60ml | Natural Herbal Oil for Healing & Beauty
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-  link: https://amzn.to/2PxOE99
+    image: https://images-na.ssl-images-amazon.com/images/I/81LNRAiE%2BUL._SL1500_.jpg
+  link: https://amzn.to/2QIxkKV
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
@@ -30,4 +33,3 @@ page_sections:
   content: <img src="/uploads/2018/11/11/Screen Shot 2018-11-11 at 09.55.11-2.png">
 
 ---
-
