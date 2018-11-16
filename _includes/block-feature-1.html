@@ -10,6 +10,14 @@
         <br/><br/>
         <a class="button primary" href="{{ section.link }}" target="_blank">buy now</a>
       </div>
+      <div class="issues">
+        {{ section.post | inspect }}
+        {% if post.issue-tag %}
+          {% for tag in post.issue-tag %}
+            <span>{{ tag }}</span>
+          {% endfor %}
+        {% endif %}
+      </div>
       <div class="column media">
         <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
     </div>      
