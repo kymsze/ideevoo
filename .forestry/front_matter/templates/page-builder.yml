@@ -43,6 +43,9 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- type: number
+  name: price
+  label: price
 pages:
 - beauty.md
 - health.md
