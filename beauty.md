@@ -30,7 +30,7 @@ page_sections:
 
 - template: simple-footer
   block: footer-1
-  content: <img src="nadaar/uploads/2018/11/11/logo.png">
+  content: <img src="uploads/2018/11/11/logo.png">
 issue-tag: []
 category_tag: []
 thumbnail: ''
