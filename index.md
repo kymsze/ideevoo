@@ -5,13 +5,13 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "uploads/2018/11/11/logo.png"
+  logo: uploads/2018/11/11/logo.png
 - template: hero-banner-w-image
   block: hero-2
   image:
     image: ''
   headline: 'Ethical items from Amazon, curated for you. '
-  background_image: ""
+  background_image: ''
 - template: navigation
   block: navigation
   navigation:
@@ -36,9 +36,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <img src="uploads/2018/11/11/logo.png">
+- template: simple-footer
+  block: footer-1
+  logo: "/uploads/2018/11/11/logo.png"
 issue-tag: []
 category_tag: []
 thumbnail: ''
+price: ''
 
 ---
 foo bar
