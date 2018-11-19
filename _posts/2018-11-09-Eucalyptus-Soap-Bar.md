@@ -9,16 +9,17 @@ category_tag:
 - health
 - featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81KLEDF8fAL._SL1500_.jpg
-price: 7.90
+price: '7.90'
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "uploads/2018/11/11/logo.png"
+  logo: uploads/2018/11/11/logo.png
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: Eucalyptus Soap Bar by Dr Bronner
-  content: Dr Bronner Eucalyptus Soap Bar in support of sustainable agriculture, farmworker health and ecological processing methods
+  content: Dr Bronner Eucalyptus Soap Bar in support of sustainable agriculture, farmworker
+    health and ecological processing methods
   media:
     image: https://images-na.ssl-images-amazon.com/images/I/81KLEDF8fAL._SL1500_.jpg
   link: https://amzn.to/2zfgSew
