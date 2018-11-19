@@ -779,3 +779,21 @@ body{
         width: 15em;
     }
 }
+
+.block-feature-1 .column.media {
+    text-align: center;
+}
+
+.block-feature-1 .price {
+    color: #69dc9e;
+}
+
+.block-feature-1 .issues span{
+    background: #69DC9E;
+    padding: 0.4em;
+    margin: 0.1em;
+    color: white;
+    border-radius: 0.2em;
+    display: inline-block;
+    text-align: center;
+}
