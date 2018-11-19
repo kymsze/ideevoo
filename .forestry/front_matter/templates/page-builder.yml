@@ -20,7 +20,7 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
-- type: number
+- type: text
   name: price
   label: price
 - type: blocks
