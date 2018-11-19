@@ -12,7 +12,7 @@ price: 21.36
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "nadaar/uploads/2018/11/11/logo.png"
+  logo: "uploads/2018/11/11/logo.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -27,6 +27,6 @@ page_sections:
   content: Sign up to get updates from nadaar
 - template: simple-footer
   block: footer-1
-  content: <img src="nadaar/uploads/2018/11/11/logo.png">
+  content: <img src="uploads/2018/11/11/logo.png">
 
 ---
