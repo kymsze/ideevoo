@@ -3,7 +3,7 @@ title: 60 Vegetarian Algae Omega 3 by NothingFishy
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- vegan
 category_tag:
 - health
 - featured

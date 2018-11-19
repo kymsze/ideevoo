@@ -3,7 +3,9 @@ title: Double Edge Safety Razor by Bambaw
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- eco packaging 
+- plastic free
+- reusable alternative
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71ORk96R%2BwL._SL1500_.jpg

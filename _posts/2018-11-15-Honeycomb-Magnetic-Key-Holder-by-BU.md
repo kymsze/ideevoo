@@ -3,7 +3,9 @@ title: Honeycomb Magnetic Key Holder by BU
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- giving back
+- eco friendly materials
+- eco packaging 
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71oHkLfYaFL._SL1299_.jpg

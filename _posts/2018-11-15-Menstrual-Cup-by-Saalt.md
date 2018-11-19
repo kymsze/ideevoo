@@ -3,7 +3,8 @@ title: Menstrual Cup by Saalt
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- giving back
+- reusable alternative
 category_tag:
 - health
 - featured

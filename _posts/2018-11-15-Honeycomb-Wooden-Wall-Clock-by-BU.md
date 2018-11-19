@@ -3,7 +3,9 @@ title: Honeycomb Wooden Wall Clock by BU
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic free
+- giving back
+- eco friendly materials
+- eco packaging 
 category_tag:
 - home
 - featured

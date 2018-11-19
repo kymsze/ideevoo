@@ -3,7 +3,8 @@ title: Glitter Garlands by Casparo Eco Design
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- eco packaging 
+- plastic free
 category_tag:
 - featured
 - home

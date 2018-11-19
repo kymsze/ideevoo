@@ -3,7 +3,9 @@ title: Bees & Bears Lunch Pack Wraps by Bee's Wrap
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- reusable alternative
+- eco packaging 
+- plastic free
 category_tag:
 - home
 - featured

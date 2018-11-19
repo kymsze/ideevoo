@@ -3,8 +3,10 @@ title: Biodegradable Bamboo Toothbrushes
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
-- natural
+- vegan
+- organic
+- cruelty free
+- hand made
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/719%2BKBWwo6L._SL1500_.jpg

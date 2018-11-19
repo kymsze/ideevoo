@@ -3,7 +3,8 @@ title: Palm Leaf Plates by Casparo Eco Design
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- eco packaging 
+- plastic free
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/910C4%2BMgpkL._SX679_.jpg

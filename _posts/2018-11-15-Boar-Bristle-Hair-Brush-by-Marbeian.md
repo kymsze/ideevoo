@@ -3,7 +3,7 @@ title: Boar Bristle Hair Brush by Marbeian
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- built to last
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91lqdoLLGIL._SL1500_.jpg

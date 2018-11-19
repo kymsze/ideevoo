@@ -3,7 +3,10 @@ title: The Original Elephant Box by Elephant Box
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- built to last
+- reusable alternative
+- eco packaging 
+- plastic free
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81mR3hNDoWL._SL1500_.jpg

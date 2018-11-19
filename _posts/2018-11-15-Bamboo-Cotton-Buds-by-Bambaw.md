@@ -3,7 +3,8 @@ title: Bamboo Cotton Buds by Bambaw
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- eco packaging 
+- plastic free
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71G1iC7VZzL._SL1500_.jpg

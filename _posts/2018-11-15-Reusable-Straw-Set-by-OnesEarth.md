@@ -3,7 +3,9 @@ title: Reusable Straw Set by OnesEarth
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic-free
+- reusable alternative
+- eco packaging 
+- built to last
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg

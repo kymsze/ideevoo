@@ -3,7 +3,7 @@ title: Beechwood Wooden Nail Brush
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
-- plastic free
+- made in the uk
 - vegan
 category_tag:
 - beauty
