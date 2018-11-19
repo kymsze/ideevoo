@@ -27,6 +27,6 @@ page_sections:
 
 - template: simple-footer
   block: footer-1
-  content: <img src="uploads/2018/11/11/logo.png">
+  logo: "/uploads/2018/11/11/logo.png"
 
 ---

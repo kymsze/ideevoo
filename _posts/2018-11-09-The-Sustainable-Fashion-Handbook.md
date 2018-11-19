@@ -25,6 +25,6 @@ page_sections:
   content: Sign up to get updates from nadaar
 - template: simple-footer
   block: footer-1
-  content: <img src="uploads/2018/11/11/logo.png">
+  logo: "/uploads/2018/11/11/logo.png"
 
 ---
