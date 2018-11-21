@@ -1,7 +1,7 @@
 ---
 title: Leaf Leather Bifold Wallet
 layout: blocks
-date: 2018-11-15 12:55:39 +0000
+date: 2018-11-20 12:55:39 +0000
 issue-tag:
 - eco friendly materials
 - giving back
@@ -11,7 +11,7 @@ category_tag:
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61MWW3Ms2zL._SL1024_.jpg
-price: 29.88
+price: '29.88'
 page_sections:
 - template: simple-header
   block: header-3

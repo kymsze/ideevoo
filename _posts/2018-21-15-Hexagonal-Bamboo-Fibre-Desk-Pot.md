@@ -1,7 +1,7 @@
 ---
 title: Hexagonal Bamboo Fibre Desk Pot
 layout: blocks
-date: 2018-11-15 12:55:39 +0000
+date: 2018-11-20 12:55:39 +0000
 issue-tag:
 - eco friendly materials
 - built to last
@@ -9,7 +9,7 @@ category_tag:
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61ypM33jiHL._SL1417_.jpg
-price: 30.0
+price: '30.00'
 page_sections:
 - template: simple-header
   block: header-3
