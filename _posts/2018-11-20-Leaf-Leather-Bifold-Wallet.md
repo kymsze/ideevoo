@@ -11,7 +11,7 @@ category_tag:
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61MWW3Ms2zL._SL1024_.jpg
-price: '29.88'
+price: 29.88
 page_sections:
 - template: simple-header
   block: header-3
@@ -20,7 +20,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Leaf Leather Bifold Wallet by Tree Tribe
-  content: DURABLE LEAF LEATHER - Leaf leather is a plant based non leather alternative. Tree Tribe Leaf Leather accessories are made from Teak leaves, with a thin strong translucent seal to make them durable and water resistant.
+  content: DURABLE LEAF LEATHER - Leaf leather is a plant based non leather alternative.
+    Tree Tribe Leaf Leather accessories are made from Teak leaves, with a thin strong
+    translucent seal to make them durable and water resistant.
   media:
     image: https://images-na.ssl-images-amazon.com/images/I/61MWW3Ms2zL._SL1024_.jpg
   link: https://amzn.to/2OXRsHs

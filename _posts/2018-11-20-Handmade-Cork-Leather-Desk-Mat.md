@@ -19,7 +19,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Handmade Cork Leather Desk Mat by BU
-  content: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork leather, it makes the perfect gift for conscientious creatives. Or simply anyone who appreciates thoughtful design.
+  content: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork
+    leather, it makes the perfect gift for conscientious creatives. Or simply anyone
+    who appreciates thoughtful design.
   media:
     image: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
   link: https://amzn.to/2OSeNtX
