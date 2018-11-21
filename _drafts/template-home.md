@@ -1,15 +1,16 @@
 ---
-title: Template - Home
+title: Glass Teapot by Amapodo
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
 issue-tag:
+- eco friendly materials
+- built to last
 - eco packaging
-- plastic free
 category_tag:
 - featured
 - home
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/81D8fN7L8sL._SL1500_.jpg
-price: 9.95
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/812Pke5xrbL._SL1500_.jpg
+price: 25.99
 page_sections:
 - template: simple-header
   block: header-3
