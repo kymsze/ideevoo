@@ -10,7 +10,7 @@ issue-tag:
 category_tag:
 - featured
 - home
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/61fo6JqyevL._SL1024_.jpg
 price: '29.00'
 page_sections:
 - template: simple-header
@@ -22,7 +22,7 @@ page_sections:
   headline: Stainless Steel Water Bottle by Tree Tribe
   content: Tree Tribe Stainless Steel Water Bottles - Indestructible, Insulated, Awesome
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
+    image: https://images-na.ssl-images-amazon.com/images/I/61fo6JqyevL._SL1024_.jpg
   link: https://amzn.to/2TClJiG
 - template: signup-bar
   block: cta-bar
