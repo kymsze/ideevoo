@@ -8,7 +8,6 @@ issue-tag:
 - vegan
 - cruelty free
 category_tag:
-- featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61MWW3Ms2zL._SL1024_.jpg
 price: 29.88

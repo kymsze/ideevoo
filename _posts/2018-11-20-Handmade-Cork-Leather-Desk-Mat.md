@@ -1,14 +1,15 @@
 ---
 title: Handmade Cork Leather Desk Mat
 layout: blocks
-date: 2018-11-20 12:55:39 +0000
+date: 2018-11-14 12:55:39 +0000
 issue-tag:
 - eco friendly materials
 - organic
 - natural
 category_tag:
+- featured
 - home
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/81Mnvo9xL7L._SL1500_.jpg
 price: '29.00'
 page_sections:
 - template: simple-header
@@ -22,7 +23,7 @@ page_sections:
     leather, it makes the perfect gift for conscientious creatives. Or simply anyone
     who appreciates thoughtful design.
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
+    image: https://images-na.ssl-images-amazon.com/images/I/81Mnvo9xL7L._SL1500_.jpg
   link: https://amzn.to/2OSeNtX
 - template: signup-bar
   block: cta-bar
