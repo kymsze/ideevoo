@@ -7,7 +7,6 @@ issue-tag:
 - organic
 - natural
 category_tag:
-- featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71iyhcviYeL._SL1500_.jpg
 price: '29.00'
