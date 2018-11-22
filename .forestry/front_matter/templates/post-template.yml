@@ -60,3 +60,5 @@ fields:
   - content-feature
   - signup-bar
   - simple-footer
+pages:
+- _posts/no-more-plastic-by-martin-dorey.md
