@@ -11,3 +11,4 @@ fields:
 - type: file
   label: Logo
   name: logo
+  default: "/uploads/2018/11/11/logo.png"
