@@ -1,0 +1,62 @@
+---
+label: post-template
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  description: 'Product details '
+- type: text
+  name: price
+  label: price
+  config:
+    required: true
+  description: eg. 9.99
+- type: text
+  name: thumbnail
+  label: thumbnail
+  description: link to amazon large image
+  config:
+    required: true
+- type: text
+  name: link
+  label: link
+  description: amazon affiliate link
+  config:
+    required: true
+- type: tag_list
+  name: issue-tag
+  label: issue tag
+  description: "- vegan - cruelty free - built to last - reusable alternative - eco
+    packaging  - plastic free - organic - made in the uk - fair trade - natural  -
+    hand made - eco friendly materials - giving back"
+- type: tag_list
+  name: category_tag
+  label: category tag
+  description: "- home - featured - books - beauty - health"
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
+  default: blocks
+- type: blocks
+  label: Page Sections
+  name: page_sections
+  description: Don't touch
+  template_types:
+  - simple-header
+  - content-feature
+  - signup-bar
+  - simple-footer
