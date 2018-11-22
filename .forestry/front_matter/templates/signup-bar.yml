@@ -15,7 +15,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+  default: Sign up to get updates from nadaar
 - type: text
   name: email_recipient
   label: Email Recipient
   description: Form submissions will be sent to this email address.
+  default: kimszelong@gmail.com
