@@ -1,7 +1,5 @@
 ---
-title: Organic Marshmallow Root Oil
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Organic Marshmallow Root Oil by Herbowski
 issue-tag:
 - plastic-free
 - made-in-the-uk
@@ -10,7 +8,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81wzJ1sE2wL._SL1500_.jpg
-price: 11.95
+price: ££
+description: Herbowski Organic Marshmallow Root Oil 60ml | Infused Herbal Natural Oil For Healing & Beauty
+link: https://amzn.to/2QO6scK
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,11 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Organic Marshmallow Root Oil by Herbowski
-  content: Herbowski Organic Marshmallow Root Oil 60ml | Infused Herbal Natural Oil For Healing & Beauty
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81wzJ1sE2wL._SL1500_.jpg
-  link: https://amzn.to/2QO6scK
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

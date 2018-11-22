@@ -1,7 +1,5 @@
 ---
-title: Organic Lavender Oil
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Organic Lavender Oil by Herbowski
 issue-tag:
 - plastic-free
 - made-in-the-uk
@@ -10,7 +8,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81jiNaS7x1L._SL1500_.jpg
-price: 10.95
+price: ££
+description: Herbowski Organic Lavender Oil 60ml | Infused Herbal Oil | All Purpose | Aromatic Oil | Skincare & Haircare | Bug Repellant | After Sun Care
+link: https://amzn.to/2Kbi5aU
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,11 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Organic Lavender Oil by Herbowski
-  content: Herbowski Organic Lavender Oil 60ml | Infused Herbal Oil | All Purpose | Aromatic Oil | Skincare & Haircare | Bug Repellant | After Sun Care
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81jiNaS7x1L._SL1500_.jpg
-  link: https://amzn.to/2Kbi5aU
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

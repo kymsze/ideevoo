@@ -18,23 +18,23 @@
 
         <h2>
           <span class="light">
-            {{ section.headline }}
+            {{ page.title }}
           </span>
         </h2>
         
-        <p>{{ section.content }}</p>
+        <p>{{ page.description }}</p>
 
         <br>
 
-        <p class="price">£{{page.price}}</p>
+        <p class="price">{{ page.price }}</p>
 
         <br/><br/>
-        <a class="button primary" href="{{ section.link }}" target="_blank">See on Amazon</a>
+        <a class="button primary" href="{{ page.link }}" target="_blank">See on Amazon</a>
       </div>
       
 
       <div class="column media">
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+        <img src="{{ page.thumbnail | relative_url }}" alt="{{ section.media.alt_text }}">
     </div>      
   </div>
 </section>

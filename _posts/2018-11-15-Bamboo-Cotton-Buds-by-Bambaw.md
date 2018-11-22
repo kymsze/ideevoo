@@ -1,14 +1,16 @@
 ---
 title: Bamboo Cotton Buds by Bambaw
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - eco packaging 
 - plastic free
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71G1iC7VZzL._SL1500_.jpg
-price: 6.99
+price: £
+description: Bamboo Cotton Buds | Eco Cotton Buds | Cotton Swab | Wooden Cotton Bud | Eco Friendly Packaging | Recyclable & Biodegradable Cotton Buds | Bambaw 
+link: https://amzn.to/2PsImrc
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,11 +18,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Bamboo Cotton Buds by Bambaw 
-  content: Bamboo Cotton Buds | Eco Cotton Buds | Cotton Swab | Wooden Cotton Bud | Eco Friendly Packaging | Recyclable & Biodegradable Cotton Buds | Bambaw 
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71G1iC7VZzL._SL1500_.jpg
-  link: https://amzn.to/2PsImrc
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

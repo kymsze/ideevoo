@@ -1,7 +1,5 @@
 ---
 title: Double Edge Safety Razor by Bambaw
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - eco packaging 
 - plastic free
@@ -9,7 +7,11 @@ issue-tag:
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71ORk96R%2BwL._SL1500_.jpg
-price: 15.99
+price: ££
+description: Double Edge Safety Razor with Long Natural Bamboo Handle | The Perfect Shave | High Quality | Sustainable and Durable | Environmentally Friendly | Fits All Double Edge Razor Blades | Bambaw
+link: https://amzn.to/2DpxymE
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -17,11 +19,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Double Edge Safety Razor by Bambaw 
-  content: Double Edge Safety Razor with Long Natural Bamboo Handle | The Perfect Shave | High Quality | Sustainable and Durable | Environmentally Friendly |Fits All Double Edge Razor Blades | Bambaw
+  headline:  
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71ORk96R%2BwL._SL1500_.jpg
-  link: https://amzn.to/2DpxymE
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

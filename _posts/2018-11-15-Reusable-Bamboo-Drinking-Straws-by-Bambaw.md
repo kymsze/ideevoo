@@ -1,14 +1,16 @@
 ---
 title: Reusable Bamboo Drinking Straws by Bambaw
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - eco packaging 
 - plastic free
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71CjPMUqcVL._SL1500_.jpg
-price: 8.49
+price: £
+description: Reusable Bamboo Drinking Straws | Reusable Straw | Strong & Durable | Cocktail Straws | Biodegradable Straws | Eco Friendly Straws | BPA Free |Dishwasher Safe |12 Straws | Straw Bag | Bambaw
+link: https://amzn.to/2Bb2oxH
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -16,11 +18,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Reusable Bamboo Drinking Straws by Bambaw
-  content: Reusable Bamboo Drinking Straws | Reusable Straw | Strong & Durable | Cocktail Straws | Biodegradable Straws | Eco Friendly Straws | BPA Free |Dishwasher Safe |12 Straws | Straw Bag | Bambaw
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71CjPMUqcVL._SL1500_.jpg
-  link: https://amzn.to/2Bb2oxH
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

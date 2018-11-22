@@ -1,12 +1,14 @@
 ---
-title: Live Green
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Live Green by Jen Chillingsworth
 issue-tag:
 category_tag:
 - books
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61STvKZmNrL.jpg
-price: 8.46
+price: £
+description: Live Green is a practical guide of 52 changes - one for each week of the year - you can make to your home and lifestyle to reduce your impact on the environment.
+link: https://amzn.to/2AhpOjw
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -14,11 +16,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Live Green by Jen Chillingsworth
-  content: Live Green is a practical guide of 52 changes - one for each week of the year - you can make to your home and lifestyle to reduce your impact on the environment.
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/61STvKZmNrL.jpg
-  link: https://amzn.to/2K7t6Kt
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

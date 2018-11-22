@@ -1,7 +1,5 @@
 ---
 title: Reusable Straw Set by OnesEarth
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - reusable alternative
 - eco packaging 
@@ -9,7 +7,11 @@ issue-tag:
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-price: 5.99
+price: £
+description: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
+link: https://amzn.to/2PxOE99
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -17,11 +19,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Reusable Straw Set by OnesEarth
-  content: OnesEarth Reusable Straw Set - Our 4 High Quality Stainless Steel Straws are an Eco Friendly Alternative to Single Use Plastic Straws
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81DdeaZcTVL._SL1500_.jpg
-  link: https://amzn.to/2PxOE99
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

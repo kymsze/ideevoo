@@ -1,7 +1,5 @@
 ---
-title: Refillable Eye shadow duo Bird
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Refillable Eye shadow duo Bird by Zao
 issue-tag:
 - eco packaging 
 - organic
@@ -12,7 +10,11 @@ category_tag:
 - beauty
 - featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41LLj4xUzSL.jpg
-price: '28.90'
+price: ££
+description: ZAO - Eye shadow duo" Bird" - Organic 100% natural vegan. Refillable packaging.
+link: https://amzn.to/2Q75ewc
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -20,11 +22,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Eye shadow duo Bird by Zao
-  content: ZAO - Eye shadow duo" Bird" - Organic 100% natural vegan. Refillable packaging.
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/41LLj4xUzSL.jpg
-  link: https://amzn.to/2Q75ewc
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

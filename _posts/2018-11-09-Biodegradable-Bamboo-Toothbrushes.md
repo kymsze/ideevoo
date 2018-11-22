@@ -1,7 +1,5 @@
 ---
-title: Biodegradable Bamboo Toothbrushes
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Biodegradable Bamboo Toothbrushes by Lavish Essentials
 issue-tag:
 - vegan
 - organic
@@ -10,7 +8,11 @@ issue-tag:
 category_tag:
 - health
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/719%2BKBWwo6L._SL1500_.jpg
-price: '5.50'
+price: £
+description: Lavish Essentials - Pack of 2 Biodegradable Bamboo Toothbrushes | Ergonomic and Vegan | Soft Bristles Infused with Vegetable Charcoal … (2 Pack)
+link: https://amzn.to/2RVEdZF
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,12 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Biodegradable Bamboo Toothbrushes by Lavish Essentials
-  content: Lavish Essentials - Pack of 2 Biodegradable Bamboo Toothbrushes | Ergonomic
-    and Vegan | Soft Bristles Infused with Vegetable Charcoal … (2 Pack)
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/719%2BKBWwo6L._SL1500_.jpg
-  link: https://amzn.to/2RVEdZF
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

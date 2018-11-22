@@ -1,7 +1,5 @@
 ---
 title: The Original Elephant Box by Elephant Box
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
 issue-tag:
 - built to last
 - reusable alternative
@@ -10,7 +8,11 @@ issue-tag:
 category_tag:
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81mR3hNDoWL._SL1500_.jpg
-price: '25.00'
+price: ££
+description: The Original Elephant Box. Stainless steel ecolunchbox. Big enough for a"proper" packed lunch!
+link: https://amzn.to/2QLEi1T
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,12 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: The Original Elephant Box by Elephant Box
-  content: The Original Elephant Box. Stainless steel ecolunchbox. Big enough for
-    a"proper" packed lunch!
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81mR3hNDoWL._SL1500_.jpg
-  link: https://amzn.to/2QLEi1T
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

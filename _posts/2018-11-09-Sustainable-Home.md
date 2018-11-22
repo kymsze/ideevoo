@@ -1,13 +1,15 @@
 ---
-title: Sustainable Home
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Sustainable Home by Christine Liu
 issue-tag:
 category_tag:
 - books
 - featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/918mddsOFGL.jpg
-price: 10.64
+price: ££
+description: Sustainable lifestyle blogger and professional Christine Liu takes you on a tour through the rooms of your home – the living area, kitchen, bedroom and bathroom – offering tips, tricks and 18 step-by-step projects designed to help you lead a more low-impact lifestyle.
+link: https://amzn.to/2PunlMS
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -15,11 +17,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Sustainable Home by Christine Liu
-  content: Sustainable lifestyle blogger and professional Christine Liu takes you on a tour through the rooms of your home – the living area, kitchen, bedroom and bathroom – offering tips, tricks and 18 step-by-step projects designed to help you lead a more low-impact lifestyle.
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/918mddsOFGL.jpg
-  link: https://amzn.to/2PunlMS
+    image:
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

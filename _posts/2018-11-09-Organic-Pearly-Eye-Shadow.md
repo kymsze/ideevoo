@@ -1,7 +1,5 @@
 ---
-title: Organic Pearly Eye Shadow
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Organic Pearly Eye Shadow by Zao  
 issue-tag:
 - eco packaging 
 - organic
@@ -11,7 +9,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71FM%2BFNzX4L._SL1000_.jpg
-price: 16.42
+price: ££
+description: Zao Organic Makeup Pearly Eye Shadow Golden Sand 105 0.11 Oz. Refillable packaging. 
+link: https://amzn.to/2PupBno
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -19,11 +21,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Organic Pearly Eye Shadow by Zao  
-  content: Zao Organic Makeup Pearly Eye Shadow Golden Sand 105 0.11 Oz. Refillable packaging. 
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/71FM%2BFNzX4L._SL1000_.jpg
-  link: https://amzn.to/2PupBno
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

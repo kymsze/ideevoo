@@ -1,7 +1,5 @@
 ---
-title: Nail Polish 657 Fuchsia Pink
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Nail Polish 657 Fuchsia Pink by Zao 
 issue-tag:
 - eco packaging 
 - organic
@@ -11,7 +9,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41SkEQlj6bL.jpg
-price: 11.07
+price: ££
+description: Zao Nail Polish 657 Fuchsia Pink with Bamboo Lid (Size Free, Vegan)
+link: https://amzn.to/2Q3BboV
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -19,11 +21,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Nail Polish 657 Fuchsia Pink by Zao  
-  content: Zao Nail Polish 657 Fuchsia Pink with Bamboo Lid (Size Free, Vegan)
+  headline:  
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/41SkEQlj6bL.jpg
-  link: https://amzn.to/2Q3BboV
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

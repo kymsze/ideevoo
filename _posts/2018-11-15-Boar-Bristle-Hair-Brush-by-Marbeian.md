@@ -7,7 +7,9 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91lqdoLLGIL._SL1500_.jpg
-price: 15.97
+price: ££
+description: Boar Bristle Hair Brush for Natural Hair Conditioning, Wooden Comb for Hair Detangling, Set Makes Hair Shiny and Silky
+link: https://amzn.to/2Q3O9Tu
 page_sections:
 - template: simple-header
   block: header-3
@@ -15,11 +17,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Boar Bristle Hair Brush by Marbeian 
-  content: Boar Bristle Hair Brush for Natural Hair Conditioning, Wooden Comb for Hair Detangling, Set Makes Hair Shiny and Silky
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/91lqdoLLGIL._SL1500_.jpg
-  link: https://amzn.to/2Q3O9Tu
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

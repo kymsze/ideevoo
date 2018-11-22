@@ -1,7 +1,5 @@
 ---
-title: Handmade Cork Leather Desk Mat
-layout: blocks
-date: 2018-11-14 12:55:39 +0000
+title: Handmade Cork Leather Desk Mat by BU
 issue-tag:
 - eco friendly materials
 - organic
@@ -10,7 +8,11 @@ category_tag:
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81Mnvo9xL7L._SL1500_.jpg
-price: '29.00'
+price: ££
+description: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork leather, it makes the perfect gift for conscientious creatives. Or simply anyone who appreciates thoughtful design.
+link: https://amzn.to/2OSeNtX
+layout: blocks
+date: 2018-11-14 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,13 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Handmade Cork Leather Desk Mat by BU
-  content: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork
-    leather, it makes the perfect gift for conscientious creatives. Or simply anyone
-    who appreciates thoughtful design.
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81Mnvo9xL7L._SL1500_.jpg
-  link: https://amzn.to/2OSeNtX
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

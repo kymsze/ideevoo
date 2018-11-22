@@ -1,7 +1,5 @@
 ---
-title: Refillable Compact Blush Pink 
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Refillable Compact Blush Pink by Zao 
 issue-tag:
 - eco packaging 
 - organic
@@ -11,7 +9,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/517ESbH0PEL._SL1000_.jpg
-price: 22.21
+price: ££
+description: Zao Organic Makeup Compact Blush Brown Pink 322 0.32 Oz. Refillable packaging. 
+link: https://amzn.to/2PxFLw7
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -19,11 +21,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Refillable Compact Blush Pink by Zao  
-  content: Zao Organic Makeup Compact Blush Brown Pink 322 0.32 Oz. Refillable packaging. 
+  headline:  
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/517ESbH0PEL._SL1000_.jpg
-  link: https://amzn.to/2PxFLw7
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

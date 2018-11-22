@@ -1,7 +1,5 @@
 ---
-title: Organic Calendula Oil
-layout: blocks
-date: 2018-11-15 12:55:39 +0000
+title: Organic Calendula Oil by Herbowski
 issue-tag:
 - plastic-free
 - made-in-the-uk
@@ -10,7 +8,11 @@ issue-tag:
 category_tag:
 - beauty
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81LNRAiE%2BUL._SL1500_.jpg
-price: 11.95
+price: ££
+description: Herbowski Organic Calendula Oil 60ml | Natural Herbal Oil for Healing & Beauty
+link: https://amzn.to/2QIxkKV
+layout: blocks
+date: 2018-11-15 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,11 +20,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Organic Calendula Oil by Herbowski
-  content: Herbowski Organic Calendula Oil 60ml | Natural Herbal Oil for Healing & Beauty
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/81LNRAiE%2BUL._SL1500_.jpg
-  link: https://amzn.to/2QIxkKV
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com

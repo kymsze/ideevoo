@@ -1,7 +1,5 @@
 ---
-title: Stainless Steel Water Bottle
-layout: blocks
-date: 2018-11-20 12:55:39 +0000
+title: Stainless Steel Water Bottle by Tree Tribe
 issue-tag:
 - eco friendly materials
 - built to last
@@ -11,7 +9,11 @@ category_tag:
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61fo6JqyevL._SL1024_.jpg
-price: '29.00'
+price: ££
+description: Tree Tribe Stainless Steel Water Bottles - Indestructible, Insulated, Awesome
+link: https://amzn.to/2TClJiG
+layout: blocks
+date: 2018-11-20 12:55:39 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -19,11 +21,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Stainless Steel Water Bottle by Tree Tribe
-  content: Tree Tribe Stainless Steel Water Bottles - Indestructible, Insulated, Awesome
+  headline: 
+  content: 
   media:
-    image: https://images-na.ssl-images-amazon.com/images/I/61fo6JqyevL._SL1024_.jpg
-  link: https://amzn.to/2TClJiG
+    image: 
+  link: 
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
