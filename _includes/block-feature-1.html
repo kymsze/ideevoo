@@ -29,7 +29,7 @@
         <p class="price">{{ page.price }}</p>
 
         <br/><br/>
-        <a class="button primary" href="{{ page.link }}" target="_blank" onclick=”ga('event','buttonClick',{'event_category':'ecommerce','event_label':'view_product','value':'{{ page.title }}'});”>
+        <a class="button primary" href="{{ page.link }}" target="_blank" onclick=”gtag('event','buttonClick',{'event_category':'ecommerce','event_label':'view_product','value':'{{ page.title }}'});”>
           See on Amazon
         </a>
       </div>
