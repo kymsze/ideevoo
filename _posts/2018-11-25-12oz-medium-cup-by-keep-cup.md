@@ -13,6 +13,7 @@ thumbnail: https://images-na.ssl-images-amazon.com/images/I/61NQQYyqsuL._SL1024_
 link: https://amzn.to/2P469Zs
 issue-tag:
 - reusable alternative
+- built to last
 category_tag:
 - home
 page_sections:
