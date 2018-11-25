@@ -17,6 +17,7 @@ issue-tag:
 - natural
 category_tag:
 - gift
+- featured
 page_sections:
 - template: simple-header
   block: header-3
