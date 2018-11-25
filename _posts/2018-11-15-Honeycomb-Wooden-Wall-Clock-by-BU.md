@@ -3,13 +3,15 @@ title: Honeycomb Wooden Wall Clock by BU
 issue-tag:
 - giving back
 - eco friendly materials
-- eco packaging 
+- eco packaging
 category_tag:
+- gift
 - home
 - featured
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71vZouawVWL._SL1122_.jpg
-price: ££
-description: Honeycomb Inspired Wooden Wall Clock With Non Ticking Silent Sweep, Unique and Contemporary Style, Bamboo Home Decor
+price: "££"
+description: Honeycomb Inspired Wooden Wall Clock With Non Ticking Silent Sweep, Unique
+  and Contemporary Style, Bamboo Home Decor
 link: https://amzn.to/2A7waSv
 layout: blocks
 date: 2018-11-15 12:55:39 +0000
