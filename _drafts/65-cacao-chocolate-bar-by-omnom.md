@@ -17,8 +17,8 @@ description: "* \U0001F36B MOUTHWATERING FLAVOUR: This delectable chocolate tast
   gift that is sure to please. Anyone who appreciates a good chocolate, will keep
   wanting mor"
 price: "£"
-thumbnail: https://images-na.ssl-images-amazon.com/images/I/91tXH-alY0L._SL1500_.jpg
-link: https://amzn.to/2AklT5i
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/81svWvZDtRL._SL1500_.jpg
+link: https://amzn.to/2BximlY
 issue-tag:
 - organic
 - natural
