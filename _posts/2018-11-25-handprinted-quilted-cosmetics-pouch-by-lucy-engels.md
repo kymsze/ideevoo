@@ -2,7 +2,7 @@
 title: Handprinted Quilted Cosmetics Pouch by Lucy Engels
 layout: blocks
 date: 2018-11-25 14:29:46 +0000
-description: his gorgeous large quilted makeup bag is part of a limited edition of
+description: This gorgeous large quilted makeup bag is part of a limited edition of
   one hundred. Handprinted in glorious deep turquoise on pale grey cotton in my own
   hand drawn monstera leaf design and lined in black cotton. By using a cotton lining
   these makeup bags are machine washable on a cool/ gentle. When the inside gets messy
