@@ -16,6 +16,7 @@ issue-tag:
 - built to last
 category_tag:
 - home
+- featured
 page_sections:
 - template: simple-header
   block: header-3
