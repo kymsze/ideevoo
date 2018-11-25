@@ -5,11 +5,14 @@ issue-tag:
 - organic
 - natural
 category_tag:
+- gift
 - featured
 - home
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81Mnvo9xL7L._SL1500_.jpg
-price: ££
-description: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork leather, it makes the perfect gift for conscientious creatives. Or simply anyone who appreciates thoughtful design.
+price: "££"
+description: Premium Handmade Cork Leather Desk Mat. Made with 100% sustainable cork
+  leather, it makes the perfect gift for conscientious creatives. Or simply anyone
+  who appreciates thoughtful design.
 link: https://amzn.to/2OSeNtX
 layout: blocks
 date: 2018-11-14 12:55:39 +0000
