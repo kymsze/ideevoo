@@ -1,13 +1,15 @@
 ---
 title: Hexagonal Bamboo Fibre Desk Pot by BU
-description: Pen Cup Tidy, Minimalist Office Accessory - Indoor Small Plant Pot, Suitable for Cactus and Succulents Planters - Makeup Brush Organiser and Storage
-price: ££
+description: Pen Cup Tidy, Minimalist Office Accessory - Indoor Small Plant Pot, Suitable
+  for Cactus and Succulents Planters - Makeup Brush Organiser and Storage
+price: "££"
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61ypM33jiHL._SL1417_.jpg
 link: https://amzn.to/2DQAIRc
 issue-tag:
 - eco friendly materials
 - built to last
 category_tag:
+- gift
 - featured
 - home
 layout: blocks
