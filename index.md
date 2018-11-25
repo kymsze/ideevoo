@@ -25,6 +25,8 @@ page_sections:
     link_text: Home & Kitchen
   - link: "/books"
     link_text: Books
+  - link: "/gift"
+    link_text: Gifts
 - template: 3-column-media-link
   block: media-3
   tag:

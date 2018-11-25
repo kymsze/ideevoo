@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Books
+title: Gift
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
@@ -24,12 +24,11 @@ page_sections:
 - template: 3-column-media-link
   block: media-3
   tag:
-  - books
+  - gift
 - template: signup-bar
   block: cta-bar
   email_recipient: kimszelong@gmail.com
   content: Sign up to get updates from nadaar
-
 - template: simple-footer
   block: footer-1
   logo: "/uploads/2018/11/11/logo.png"
