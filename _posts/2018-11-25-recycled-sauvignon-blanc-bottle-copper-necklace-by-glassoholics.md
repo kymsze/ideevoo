@@ -15,6 +15,7 @@ issue-tag:
 - eco friendly materials
 category_tag:
 - gift
+- featured
 page_sections:
 - template: simple-header
   block: header-3
