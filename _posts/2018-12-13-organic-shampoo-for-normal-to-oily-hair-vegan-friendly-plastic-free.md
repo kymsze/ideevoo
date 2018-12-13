@@ -1,5 +1,5 @@
 ---
-title: Organic Shampoo for Normal to Oily Hair, Vegan Friendly, Plastic Free
+title: Organic Shampoo for Normal to Oily Hair by Beauty Kubes
 description: Our ultra-gentle formula is perfect for those with hair that is oily,
   our biodegradable cleansing agents are Ecocert approved, sulphate free, synthetic
   fragrance free, synthetic preservative free. They will cleanse the hair and scalp
@@ -18,6 +18,7 @@ issue-tag:
 - organic
 - plastic free
 - eco friendly materials
+- cruelty free
 category_tag:
 - beauty
 layout: ''
