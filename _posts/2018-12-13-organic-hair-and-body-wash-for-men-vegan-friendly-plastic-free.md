@@ -1,5 +1,5 @@
 ---
-title: Organic Hair and Body Wash for Men, Vegan Friendly, Plastic Free
+title: Organic Hair and Body Wash for Men by Beauty Kubes
 description: A new plastic free, organic shampoo and body wash designed for men, vegan
   friendly and sulphate free, cruelty free and free from palm oil and palm derivatives.
   Our plastic free packaging can help you achieve a zero waste lifestyle. Each Beauty
