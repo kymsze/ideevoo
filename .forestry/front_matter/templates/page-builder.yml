@@ -1,7 +1,6 @@
 ---
 label: page-builder
 hide_body: true
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -49,5 +48,5 @@ fields:
 pages:
 - beauty.md
 - index.md
-- home.md
 - health.md
+- home.md
